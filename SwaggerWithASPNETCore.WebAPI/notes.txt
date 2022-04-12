@@ -1,0 +1,22 @@
+﻿Steps for using swagger.
+
+1. Install-Package Swashbuckle.AspNetCore
+2. Add services.AddSwaggerGen() in startup.cs using the below
+
+public void ConfigureServices(IServiceCollection services)
+{
+    services.AddSwaggerGen();
+}
+
+3. Do additional swagger configuration using the below
+
+
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {
+        app.UseSwagger();  
+        app.UseSwaggerUI(c => {  
+            c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V2");  
+        });  
+      }  
+    }
+
+4. Launch the project with swagger. E.g http://localhost:29088/swagger

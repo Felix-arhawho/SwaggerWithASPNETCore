@@ -1,0 +1,17 @@
+2022-04-12 14:42:10.8054|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-04-12 14:42:10.8969|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-04-12 14:42:10.9306|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Repositories\SwaggerWithASPNETCore\SwaggerWithASPNETCore.WebAPI
+2022-04-12 14:45:46.8826|ERROR|SwaggerWithASPNETCore.WebAPI.Controllers.SandboxController|An error occurred
+2022-04-12 15:07:06.3184|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-04-12 15:07:06.4557|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-04-12 15:07:06.4747|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Repositories\SwaggerWithASPNETCore\SwaggerWithASPNETCore.WebAPI
+2022-04-12 15:22:15.6893|ERROR|SwaggerWithASPNETCore.WebAPI.Controllers.SandboxController|Index was outside the bounds of the array.
+2022-04-12 15:41:31.7736|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-04-12 15:41:31.8461|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-04-12 15:41:31.8461|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Repositories\SwaggerWithASPNETCore\SwaggerWithASPNETCore.WebAPI
+2022-04-12 15:42:15.6448|ERROR|SwaggerWithASPNETCore.WebAPI.Controllers.SandboxController|Index was outside the bounds of the array.
+2022-04-12 15:42:16.3503|ERROR|SwaggerWithASPNETCore.WebAPI.Controllers.SandboxController|
+2022-04-12 15:42:17.1531|ERROR|SwaggerWithASPNETCore.WebAPI.Controllers.SandboxController|   at SwaggerWithASPNETCore.WebAPI.Controllers.SandboxController.GetInitiatedRequestById(Int32 Id) in C:\Repositories\SwaggerWithASPNETCore\SwaggerWithASPNETCore.WebAPI\Controllers\SandboxController.cs:line 26
+2022-04-12 15:51:59.7692|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-04-12 15:51:59.8617|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-04-12 15:51:59.8782|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Repositories\SwaggerWithASPNETCore\SwaggerWithASPNETCore.WebAPI
